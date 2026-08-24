@@ -7,10 +7,10 @@ on:
 env:
 
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: acastore
+  # RESOURCE_GROUP_NAME: acastore
 
   # specify your preferred region
-  REGION: westeurope
+ # REGION: westeurope
 
 permissions:
   id-token: write
