@@ -7,10 +7,10 @@ on:
 env:
 
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: xenia-aca-test-rg
+  RESOURCE_GROUP_NAME: aca-store
 
   # specify your preferred region
-  REGION: westus
+  REGION: westeurope
 
 permissions:
   id-token: write
